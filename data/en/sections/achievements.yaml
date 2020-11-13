@@ -1,0 +1,26 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Scholarship
+  image: /images/sections/achievements/books.jpg
+  summary: UTS scholarship.
+
+- title: Instrumentation and control topper
+  image: /images/sections/achievements/entangled.jpg
+  summary: Gold medal for first rank.
+
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+- title: Award Winner
+  image: /images/sections/achievements/woman-winner.jpg
+  summary: Wined best paper award at IEE Conference 2020.
