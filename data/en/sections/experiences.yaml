@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: Socio-Technica
     url: "https://www.example.com"
-    location: Dhaka Branch
+    location: Helsinki
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Associate(Part-Time)
+    start: Dec 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -28,14 +28,28 @@ experiences:
     - Lead backend team.
 
 - company:
-    name: PreExample Co.
+    name: Eticas Research and consulting
     url: "https://www.preexample.com"
-    location: Nowhere
+    location: Barcelona, Spain
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Graduate Research Intern
+    start: February 2018
+    end: April 2018
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Steinbeis Solar Research Centre
+    url: "https://www.preexample.com"
+    location: Chennai, India
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Graduate Research Intern
+    start: January 2015
+    end: May 2015
     responsibilities:
     - Write lots of example codes.
     - Read lots of examples.
